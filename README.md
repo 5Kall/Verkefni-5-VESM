@@ -1,7 +1,7 @@
 ## Verkefni-5-VESM
 
 ###5.4
-* 4,8 V til 7,2 V. við þurfum að vita hagstæð
+* 4,8 V til 7,2 V. við þurfum að vita hagstæð mál motor-sins
 
 * 1.2 V það er átt við sem eru frjáls til flutnings
 
